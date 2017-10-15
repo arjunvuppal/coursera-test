@@ -1,0 +1,20 @@
+body {
+	font-size: 16px;
+	font-family: 'Arial',sans-serif;
+}
+
+/*Header*/
+#header-nav {
+	border-radius: 0;
+	border: 0 ;
+	border-bottom: 2px solid black;
+}
+.navbar-default .navbar-brand {
+	font-size: 1.5em;
+	font-weight: bold;
+	line-height: .75;
+	color: #000;
+}
+#nav-list :hover {
+	background: #E7E7E7;
+}
